@@ -6,7 +6,7 @@
     <a href="https://github.com/DiscoHub12/DiscoHub12/graphs/contributors"><img src="https://img.shields.io/github/contributors/DiscoHub12/DiscoHub12?color=blue"></a>
     <a href="https://github.com/DiscoHub12/DiscoHub12/stargazers"><img src="https://img.shields.io/github/stars/DiscoHub12/DiscoHub12.svg?logo=github"></a>
     <a href="https://github.com/DiscoHub12/DiscoHub12/network/members"><img src="https://img.shields.io/github/forks/DiscoHub12/DiscoHub12.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DiscoHub12.DiscoHub12" alt="visitors"/>   
+    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=DiscoHub12.DiscoHub12" alt="visitors"/>   ---> 
 </p>
 
 <!--   my-ticker -->    
